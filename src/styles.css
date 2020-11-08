@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+}
+.dragbox {
+  position: absolute;
+  z-index: 101;
+  background: lightgreen;
+  opacity: 0.9;
+  width: 80%;
+  left: 60px;
+  top: 3em;
+}
+.equation {
+  position: absolute;
+  display: inline-block;
+  border: 0px solid rgb(200, 200, 200);
+  z-index: 101;
+  opacity: 0.9;
+}
