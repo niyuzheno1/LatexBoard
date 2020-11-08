@@ -2,7 +2,7 @@
 
 P.S. I did all the work. I also did some leetcode challenge during the time. I ranked 491 out of 9150 by the way.
 
-Youtube demo: [https://www.youtube.com/watch?v=16wHvFrs6aA&feature=youtu.be](Demo)
+Youtube demo: [Demo](https://www.youtube.com/watch?v=16wHvFrs6aA&feature=youtu.be)
 
 ## Inspiration
 
