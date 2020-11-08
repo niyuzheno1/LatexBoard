@@ -2,6 +2,8 @@
 
 P.S. I did all the work. I also did some leetcode challenge during the time. I ranked 491 out of 9150 by the way.
 
+Youtube demo: [https://www.youtube.com/watch?v=16wHvFrs6aA&feature=youtu.be](Demo)
+
 ## Inspiration
 
 I am inspired by Youtubers Blackpenredpen and SecondThread to write this app so that professor and student can study subjects like math in a judicious and wise manner. I was also inspired by my personal experience of studying Machine Learning at UC Riverside to create this app.
