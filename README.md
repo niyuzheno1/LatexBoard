@@ -1,6 +1,6 @@
 # LatexBoard
 
-P.S. I did all the work.
+P.S. I did all the work. I also did some leetcode challenge during the time. I ranked 491 out of 9150 by the way.
 
 ## Inspiration
 
